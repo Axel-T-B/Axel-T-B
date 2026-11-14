@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axel-T-B
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Javascript and Applied AI Engineering
+- 🌱 I’m currently learning Javascript, Applied AI Engineering, and technical interview prep with Python
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: axelbotticelli@gmail.com
 - 😄 Pronouns: He/Him
